@@ -13156,10 +13156,10 @@ prettier-plugin-sh@^0.12.8:
     sh-syntax "^0.3.6"
     synckit "^0.8.1"
 
-prettier-plugin-svelte@2.10.1:
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.10.1.tgz#e1abbe5689e8a926c60b8bc42e61233556ca90d1"
-  integrity sha512-Wlq7Z5v2ueCubWo0TZzKc9XHcm7TDxqcuzRuGd0gcENfzfT4JZ9yDlCbEgxWgiPmLHkBjfOtpAWkcT28MCDpUQ==
+prettier-plugin-svelte@3.2.4:
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-3.2.4.tgz#50366d550b2fe64b736ec0c90998805cfc395a2c"
+  integrity sha512-tZv+ADfeOWFNQkXkRh6zUXE16w3Vla8x2Ug0B/EnSmjR4EnwdwZbGgL/liSwR1kcEALU5mAAyua98HBxheCxgg==
 
 prettier-plugin-tailwindcss@0.2.8:
   version "0.2.8"
